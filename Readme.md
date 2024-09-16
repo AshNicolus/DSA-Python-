@@ -29,7 +29,7 @@ Welcome to the **ultimate** DSA cheat code! This repository is your one-stop-sho
 
 | Topic                   | Description                            | Code Samples |
 |-------------------------|----------------------------------------|--------------|
-| **Arrays & Strings**     | Basics, sliding windows, two-pointer techniques | [Go to Code](./arrays) |
+| **Arrays & Strings**     | Basics, sliding windows, two-pointer techniques | [Go to Code](./Arrays) |
 | **Linked Lists**         | Classic problems, slow-fast pointers, reversal | [Go to Code](./linked-lists) |
 | **Stacks & Queues**      | Balanced parentheses, infix to postfix | [Go to Code](./stacks-queues) |
 | **Trees**                | Traversals (DFS, BFS), binary search trees | [Go to Code](./trees) |
