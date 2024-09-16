@@ -1,5 +1,5 @@
-##Fun Fact 
+Fun Fact 
 
-#There is place in Solar System where Life exist.
+There is place in Solar System where Life exist.
 
 
