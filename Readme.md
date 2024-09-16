@@ -17,7 +17,7 @@ Welcome to the **ultimate** DSA cheat code! This repository is your one-stop-sho
 
 1. **Clone it**: 
     ```bash
-    git clone https://github.com/yourusername/dsa-repo.git
+    git clone https://github.com/AshNicolus/DSA-Python-.git
     ```
 2. **Explore the Folders**: Each topic has its own folder. Jump into the one that excites you the most! 🕵️‍♂️
 3. **Practice Problems**: Every topic has a list of classic problems with solutions in multiple languages (Python, C++, Java, etc.)
