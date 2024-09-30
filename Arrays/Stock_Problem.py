@@ -13,4 +13,13 @@ def profit(arr):
 arr = [7,1,5,3,6,4]
 print(profit(arr))
 
+#Optimal code
 
+def maxi(arr):
+    maxipro = 0
+    mini = float('inf')
+    for i in range(len(arr)):
+        mini = min(mini,arr[i])
+        maxipro = max(maxipro,arr[i]-mini)
+    return maxipro
+print(maxi(arr))
