@@ -6,7 +6,8 @@ def floorandceil(arr,x):
             floor = max(floor,num)
         if num  >= x:
             ceil = min(ceil,num)
-        
+    if ceil == float('inf'):
+        ceil = -1 
     return [floor,ceil]
 
 
