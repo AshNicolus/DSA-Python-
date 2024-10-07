@@ -35,7 +35,8 @@ Welcome to the **ultimate** DSA cheat code! This repository is your one-stop-sho
 | **Trees**                | Traversals (DFS, BFS), binary search trees | [Go to Code](./trees) |
 | **Graphs**               | DFS, BFS, Dijkstra, topological sort   | [Go to Code](./graphs) |
 | **Dynamic Programming**  | Memoization, tabulation, classic problems like Knapsack | [Go to Code](./dp) |
-| **Sorting & Searching**  | Quicksort, mergesort, binary search    | [Go to Code](./sorting-searching) |
+| **Sorting**              | Quicksort, mergesort, binary search    | [Go to Code](./Sorting) |
+| **Searching**            | Search Algorithms                      | [Go to Code](./Searching)|
 | **Backtracking**         | N-Queens, Sudoku Solver, Permutations  | [Go to Code](./backtracking) |
 
 ---
