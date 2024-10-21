@@ -1,6 +1,6 @@
 ***Fun Fact*** 
 
-**Fun FACT**: 
+**Space**: 
     ```
     There is place in Solar System where Life exist.
     ```
