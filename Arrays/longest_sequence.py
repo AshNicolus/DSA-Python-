@@ -42,10 +42,10 @@ def length(arr):
             cnt = 1 
             x = it
             
-        while x+1 in st:
-            x += 1
-            cnt +=1
-        longest = max(longest,cnt)
+            while x+1 in st:
+                x += 1
+                cnt +=1
+            longest = max(longest,cnt)
     return longest
         
 
