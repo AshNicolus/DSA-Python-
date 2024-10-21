@@ -12,6 +12,9 @@
 #             maxi = max(sum,maxi)
 #     return maxi
 
+from typing import List
+
+
 arr = [1,3,2]
 
 
