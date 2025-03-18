@@ -33,7 +33,7 @@ Welcome to the **ultimate** DSA cheat code! This repository is your one-stop-sho
 | **Linked Lists**         | Classic problems, slow-fast pointers, reversal | [Go to Code](./linked-lists) |
 | **Stacks & Queues**      | Balanced parentheses, infix to postfix | [Go to Code](./stacks-queues) |
 | **Bit Manipulation**     | Operators,power set,divisors, seive    | [Go to Code](./Bit-Maniplation)|
-| **Trees**                | Traversals (DFS, BFS), binary search trees | [Go to Code](./trees) |
+| **Trees**                | Traversals (DFS, BFS), binary search trees | [Go to Code](./Trees) |
 | **Graphs**               | DFS, BFS, Dijkstra, topological sort   | [Go to Code](./graphs) |
 | **Dynamic Programming**  | Memoization, tabulation, classic problems like Knapsack | [Go to Code](./dp) |
 | **Sorting**              | Quicksort, mergesort, binary search    | [Go to Code](./Sorting) |
