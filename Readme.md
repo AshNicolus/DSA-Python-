@@ -38,7 +38,7 @@ Welcome to the **ultimate** DSA cheat code! This repository is your one-stop-sho
 | **Dynamic Programming**  | Memoization, tabulation, classic problems like Knapsack | [Go to Code](./dp) |
 | **Sorting**              | Quicksort, mergesort, binary search    | [Go to Code](./Sorting) |
 | **Searching**            | Search Algorithms                      | [Go to Code](./Searching)|
-| **Backtracking**         | N-Queens, Sudoku Solver, Permutations  | [Go to Code](./backtracking) |
+| **Backtracking**         | N-Queens, Sudoku Solver, Permutations  | [Go to Code](./Backtracking) |
 
 ---
 
